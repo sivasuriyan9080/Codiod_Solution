@@ -1,1 +1,1 @@
-# Codiod_Solution
+Solution for Codoid
