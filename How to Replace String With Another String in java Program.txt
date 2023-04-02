@@ -1,0 +1,20 @@
+package javaprogramss;
+
+public class Replace {
+
+	public static void main(String[] args) {
+	
+		String s = "WORLDS OF CINEMA";
+        String s1 = "cinema of hollwood";
+	
+
+System.out.println(s.replace(s, s1));
+
+	
+	}
+
+}
+OUTPUT :
+
+cinema of hollwood
+

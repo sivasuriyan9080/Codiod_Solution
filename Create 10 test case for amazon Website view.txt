@@ -1,0 +1,48 @@
+Test case for Login functionality:  
+To validate the login functionality with Valid Username and Valid password
+To validate the login functionality with Valid Username and InValid password
+To validate the login functionality with InValid Username and Valid password
+To validate the login functionality with InValid Username and InValid password
+
+Test case for homepage view: 
+
+To validate that the homepage of the Amazon website is loaded properly with all the expected elements such as logo, search bar, navigation menu, and featured products.
+
+Test case for search functionality:
+
+To validate the  search bar functionality with Valid Specific product name
+To validate the  search box functionality with inValid product name
+To validate the  search bar functionality with both Valid and invalid product name
+
+Test case for product page view : 
+
+To validate click  a product from the search results and check that the product page is loaded properly with all the expected elements such as product description, images, customer reviews, and add to cart button and all properties with Correct size and proper location 
+
+Test case for add to cart functionality :
+To validate click on the add to cart button and check that the product is added to the cart and cart is updated with the correct quantity and price.
+
+Test case for checkout functionality:
+
+To validate click on the checkout button from the cart page and Check that the checkout process is started and the user to enter the required details Like delivery address, payment method, offers,etc
+
+Test case for payment Method functionality:
+1.Pay with Debit/Credit/ATM Cards
+To validate the Pay with Debit/Credit/ATM Cards functionality with Valid Expiry date and Valid Card number and Valid CCV number
+To validate the Pay with Debit/Credit/ATM Cards functionality with Valid Expiry date and Valid Card number and InValid CCV number
+To validate the Pay with Debit/Credit/ATM Cards functionality with inValid Expiry date and InValid Card number and Valid CCV number
+To validate the Pay with Debit/Credit/ATM Cards functionality with inValid Expiry date and InValid Username and InValid password
+
+2.NetBanking
+
+To validate the NetBanking functionality with Valid User ID and Valid password
+To validate the NetBanking functionality with Valid User ID and InValid password
+To validate the NetBanking functionality with InValid User ID and Valid password
+To validate the NetBanking functionality with InValid User ID and InValid password
+
+3.Other UPI Apps
+To validate the UPI functionality with Valid UPI ID and Valid PIN
+To validate the UPI functionality with Valid UPI ID and InValid PIN
+To validate the UPI functionality with InValid UPI ID and Valid PIN
+To validate the UPI functionality with InValid UPI ID and InValid PIN
+
+

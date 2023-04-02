@@ -1,0 +1,5 @@
+Set<String> windowHandles = driver.getWindowHandles();
+		  for(String eachwin:windowHandles){
+			driver.switchTo().window(eachwin);
+		}
+	

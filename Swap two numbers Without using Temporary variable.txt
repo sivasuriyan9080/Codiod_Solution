@@ -1,0 +1,33 @@
+package javaprogramss;
+
+public class Swapp {
+
+	public static void main(String[] args) {
+		
+		int a = 111 , b = 100;
+		 
+		
+		
+		System.out.println("Before Swapping a :"+a);
+		System.out.println("Before Swapping b :"+b);
+		
+		b=a+b-(a=b); 
+		
+		System.out.println();
+		
+	
+		
+		System.out.println("After Swapping a :"+a);
+		System.out.println("After Swapping b :"+b);
+	}
+
+}
+
+OUTPUT :
+
+Before swapping a :111
+Before Swapping b :100
+
+After Swapping a :100
+After Swapping b :111
+

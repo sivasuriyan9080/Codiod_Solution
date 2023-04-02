@@ -1,0 +1,27 @@
+Bug Report: unable to Send Voice Messages on WhatsApp
+
+Description:
+I am experiencing a bug on WhatsApp where I am unable to send voice messages to any of my contacts. When I try to record a voice message, the recording does not start, or the recording stops abruptly after a few seconds. This bug is occurring consistently and is affecting my ability to communicate with my contacts via WhatsApp.
+
+Steps to Reproduce:
+
+   1. Open WhatsApp and select a contact to send a voice message to.
+   2. Press and hold the microphone icon to record a voice message.
+   3. Start recording a message by speaking into the microphone.
+   4. Observe that the recording does not start or stops abruptly after a few seconds.
+   5. Attempt to re-record the message, but the same issue occurs.
+
+Expected Behavior:
+When I press and hold the microphone icon to record a voice message, the recording should start immediately and continue until I release the button. The voice message should be recorded in its entirety without any interruptions.
+
+Actual Behavior:
+The recording does not start or stops abruptly after a few seconds, which prevents me from recording a complete voice message.
+
+Screenshots:
+Unfortunately, screenshots cannot be provided as this issue pertains to audio recording.
+
+
+Device Information:
+Device: Samsung Galaxy A20
+Operating System: Android 11
+WhatsApp Version: 2.23.5.78
